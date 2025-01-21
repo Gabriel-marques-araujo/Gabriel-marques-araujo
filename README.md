@@ -29,9 +29,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODB3Z2JuY2Zqbzc3MWVpeXR6MDd2dGt3bmYyMzJqMzhweHNmYXhyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
-</div>
+
 
 <h2 align="left">Redes Sociais</h2>
 
